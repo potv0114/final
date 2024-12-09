@@ -1,0 +1,16 @@
+.custom-carousel {
+    margin: 80px auto;
+}
+
+.custom-carousel .carousel-inner img {
+    max-height: 300px;
+    object-fit: cover;
+}
+
+.footercss {
+    margin: 10px auto;
+}
+
+.showcasecss {
+    margin-bottom: 100px;
+}
